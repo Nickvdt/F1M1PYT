@@ -20,7 +20,7 @@ print("Enter your name")
 x = input()
 print("Hello, ", x)
 
-#Rekenmachine
+#Rekenen
 print("Tel twee getallen bij elkaar op")
 x = input()
 y = input()
