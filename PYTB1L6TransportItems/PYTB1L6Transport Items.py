@@ -1,0 +1,31 @@
+import time
+import os
+os.system('cls')
+listfactory = "factory: []"
+listdistribution = "distribution: []"
+listshop = "shop: []"
+print (listfactory)
+print (listdistribution)
+print (listshop)
+time.sleep(2)
+os.system('cls')
+print (listfactory[0:9] + "[Laptop]")
+print (listdistribution)
+print (listshop)
+time.sleep(2)
+os.system('cls')
+print (listfactory)
+print (listdistribution[0:13] + "[laptop]")
+print (listshop)
+time.sleep(2)
+os.system('cls')
+print (listfactory)
+print (listdistribution)
+print (listshop[0:5] + "[laptop]")
+time.sleep(2)
+os.system('cls')
+print (listfactory)
+print (listdistribution)
+print (listshop)
+time.sleep(2)
+os.system('cls')
